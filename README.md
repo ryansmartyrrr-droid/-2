@@ -17,8 +17,7 @@
 <body>
 <div class="resume">
   <div class="photo">
-    <!-- 在這裡放你的照片，例如： -->
-    <!-- <img src="你的圖片網址或 Base64" style="width:150px;border-radius:8px;"/> -->
+   <img src="你的圖片檔名" width="200">
   </div>
   <h1>亞洲大學 經濟與管理學系 — 履歷表</h1>
 
