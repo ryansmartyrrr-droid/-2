@@ -17,7 +17,7 @@
 <body>
 <div class="resume">
   <div class="photo">
-   <img src="你的圖片檔名" width="200">
+   <img src="陳77.jpg" width="200">
   </div>
   <h1>亞洲大學 經濟與管理學系 — 履歷表</h1>
 
